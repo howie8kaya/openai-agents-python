@@ -1,0 +1,4 @@
+model: o3-mini
+tools:
+  - type: bash
+  - type: text_editor
